@@ -1,1 +1,3 @@
 # dolerean
+
+biraz degisiklik yapalim bakalim...
